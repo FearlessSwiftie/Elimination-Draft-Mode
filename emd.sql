@@ -1,0 +1,6 @@
+CREATE TABLE heroes (
+    id INT(13) PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    hero VARCHAR(30),
+    pattribute VARCHAR(13),
+    available BOOLEAN NOT NULL DEFAULT 1
+);
