@@ -1,5 +1,5 @@
-# Elimination-Draft-Mode
-Discord bot designed to simulate Dota 2's Elimination Draft Mode outside of the game client.
+# Elimination Mode Draft
+Discord bot designed to simulate Dota 2's Elimination Mode Draft outside of the game client.
 
 ##Requirements
 * node.js - https://nodejs.org/en/
